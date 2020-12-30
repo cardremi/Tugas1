@@ -10,3 +10,5 @@ function minus(array) {
     }bool==true?console.log(array):alert("not int");
 }
 minus([1,2,3,4,5])
+minus([])
+
